@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900 font-sans antialiased;
+  }
+}
+
+@layer components {
+  .container-custom {
+    @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn {
+    @apply rounded-md px-6 py-3 font-medium transition-colors duration-200;
+  }
+
+  .btn-primary {
+    @apply bg-primary text-white hover:bg-primary-dark;
+  }
+
+  .btn-alert {
+    @apply bg-alert text-white hover:bg-red-700;
+  }
+
+  .btn-outline {
+    @apply border-2 border-primary text-primary hover:bg-primary hover:text-white;
+  }
+
+  .card {
+    @apply bg-white rounded-lg shadow-sm border border-gray-200 p-6 md:p-8;
+  }
+
+  .section {
+    @apply py-5 md:py-20;
+  }
+}
+
+/* React Slick Equal Height Fix */
+.slick-track {
+  display: flex !important;
+}
+.slick-slide {
+  height: inherit !important;
+}
+.slick-slide > div {
+  height: 100%;
+}

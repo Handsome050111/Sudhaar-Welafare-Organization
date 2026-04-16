@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Youth welfare",
+    "iconName": "BookOpen",
+    "imagePath": "/service-logo-1.jpg",
+    "photoPath": "/services images/service-img-1.jpeg",
+    "description": [
+      "Our youth welfare programs focus on the holistic development of young individuals. We strive to provide the necessary resources, guidance, and opportunities to help youths overcome challenges and achieve their full potential.",
+      "We conduct educational workshops, mentorship programs, and recreational activities to foster leadership, resilience, and a sense of community among the youth."
+    ],
+    "features": [
+      "Educational workshops and skill building",
+      "Mentorship and career guidance",
+      "Youth leadership programs",
+      "Sports and recreational activities",
+      "Substance abuse awareness and prevention"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Welfare of physically and mentally disabled persons",
+    "iconName": "Users",
+    "imagePath": "/service-logo-2.png",
+    "photoPath": "/services images/service-img-2.jpeg",
+    "description": [
+      "We are dedicated to supporting physically and mentally disabled individuals by creating an inclusive and accessible environment. Our aim is to empower them to lead independent and fulfilling lives.",
+      "Our services include physical therapy, counseling, skill development, and advocacy to ensure equal rights and opportunities for individuals with disabilities."
+    ],
+    "features": [
+      "Physical rehabilitation and therapy",
+      "Mental health counseling and support",
+      "Vocational training and skill development",
+      "Provision of assistive devices",
+      "Advocacy for disability rights and inclusion"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Providing free medical treatment and healthcare services",
+    "iconName": "Heart",
+    "imagePath": "/service-logo-3.png",
+    "photoPath": "/services images/service-img-3.jpeg",
+    "description": [
+      "Access to quality healthcare is a fundamental right. We offer free medical camps, clinics, and emergency healthcare services to underprivileged communities who cannot afford basic medical care.",
+      "From general check-ups to life-saving medicines and specialized treatments, our dedicated medical professionals work tirelessly to improve community health."
+    ],
+    "features": [
+      "Free medical camps and mobile clinics",
+      "Provision of free essential medicines",
+      "Maternal and child healthcare services",
+      "Health awareness and hygiene programs",
+      "Emergency medical assistance"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Welfare of juvenile offenders",
+    "iconName": "Shield",
+    "imagePath": "/service-logo-4.png",
+    "photoPath": "/services images/service-img-4.jpeg",
+    "description": [
+      "We believe in rehabilitation and second chances for juvenile offenders. Our programs are tailored to address the root causes of delinquency and guide youths towards a positive path.",
+      "Through counseling, education, and vocational training, we help juvenile offenders reintegrate into society as responsible and law-abiding citizens."
+    ],
+    "features": [
+      "Psychological and behavioral counseling",
+      "Educational support and tutoring",
+      "Vocational training programs",
+      "Legal assistance and advocacy",
+      "Post-release reintegration support"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Welfare of society excluded individuals",
+    "iconName": "Globe",
+    "imagePath": "/service-logo-5.png",
+    "photoPath": "/services images/service-img-5.jpeg",
+    "description": [
+      "Our mission is to uplift society's most marginalized and excluded individuals. We work to break down social barriers and integrate them back into the mainstream community with dignity.",
+      "We provide safe shelters, psychological support, and essential life skills to help them rebuild their lives and regain their confidence."
+    ],
+    "features": [
+      "Provision of safe shelter and food",
+      "Psychosocial support and counseling",
+      "Life skills and empowerment programs",
+      "Community awareness and sensitization",
+      "Assistance in securing employment"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Welfare of beggers, widows and the needy",
+    "iconName": "HandHeart",
+    "imagePath": "/service-logo-6.png",
+    "photoPath": "/services images/service-img-6.jpeg",
+    "description": [
+      "We extend a helping hand to the most vulnerable members of our society, including beggars, widows, and those living in extreme poverty, to ensure their basic needs are met.",
+      "Our comprehensive support includes regular food distribution, financial assistance, and long-term empowerment programs to help them achieve self-sufficiency."
+    ],
+    "features": [
+      "Regular grocery and food distribution",
+      "Financial assistance for widows and orphans",
+      "Micro-enterprise setup support",
+      "Skill training for income generation",
+      "Healthcare and educational support"
+    ]
+  }
+]
