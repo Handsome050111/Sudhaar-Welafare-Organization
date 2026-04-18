@@ -42,7 +42,7 @@ const Navbar = () => {
           <div className="flex justify-between items-center h-16 md:h-20">
             {/* Logo */}
             <Link to="/" className="flex items-center gap-2 md:gap-3">
-              <img src="/logo.png" alt="Sudhaar Logo" className="w-12 h-12 md:w-14 md:h-14 object-contain" />
+              <img src="/logo.jpeg" alt="Sudhaar Logo" className="w-12 h-12 md:w-14 md:h-14 object-contain" />
               <div className="hidden sm:block">
                 <h1 className="font-bold text-primary text-sm md:text-base leading-tight">
                   Sudhaar Welfare

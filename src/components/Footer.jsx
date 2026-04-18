@@ -12,22 +12,22 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <div className="bg-white p-1 rounded border border-gray-200 flex-shrink-0">
-                <img src="/logo.png" alt="Sudhaar Logo" className="w-10 h-10 md:w-12 md:h-12 object-contain" />
+                <img src="/logo.jpeg" alt="Sudhaar Logo" className="w-10 h-10 md:w-12 md:h-12 object-contain" />
               </div>
               <h3 className="font-bold text-lg leading-tight">Sudhaar Welfare Organization</h3>
             </div>
             <p className="text-gray-300 text-sm leading-relaxed mb-4">
-              Drug Rehabilitation Center dedicated to helping individuals overcome addiction 
+              Drug Rehabilitation Center dedicated to helping individuals overcome addiction
               and rebuild their lives with dignity and purpose.
             </p>
             <p className="text-xs text-gray-400 mb-6">
               CEO: Adnan Ahmad
             </p>
             <div className="flex flex-col gap-3">
-              <a 
-                href="https://www.facebook.com/share/1ECLtY4bvG/" 
-                target="_blank" 
-                rel="noopener noreferrer" 
+              <a
+                href="https://www.facebook.com/share/1ECLtY4bvG/"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white transition-colors text-sm flex items-center gap-3"
               >
                 <div className="w-8 h-8 rounded-full bg-gray-800 flex items-center justify-center hover:bg-blue-600 transition-colors">
@@ -35,10 +35,10 @@ const Footer = () => {
                 </div>
                 Facebook
               </a>
-              <a 
-                href="https://www.tiktok.com/@sudhaar_welfare_org?_r=1&_t=ZS-95JcAUh3L1h" 
-                target="_blank" 
-                rel="noopener noreferrer" 
+              <a
+                href="https://www.tiktok.com/@sudhaar_welfare_org?_r=1&_t=ZS-95JcAUh3L1h"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white transition-colors text-sm flex items-center gap-3"
               >
                 <div className="w-8 h-8 rounded-full bg-gray-800 flex items-center justify-center hover:bg-black transition-colors">
@@ -46,10 +46,10 @@ const Footer = () => {
                 </div>
                 TikTok
               </a>
-              <a 
-                href="https://www.instagram.com/smartadnan47?igsh=MTU0MDhzcGNkNXQ4Mg==" 
-                target="_blank" 
-                rel="noopener noreferrer" 
+              <a
+                href="https://www.instagram.com/smartadnan47?igsh=MTU0MDhzcGNkNXQ4Mg=="
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white transition-colors text-sm flex items-center gap-3"
               >
                 <div className="w-8 h-8 rounded-full bg-gray-800 flex items-center justify-center hover:bg-pink-600 transition-colors">
@@ -109,9 +109,9 @@ const Footer = () => {
                 <img src="/whatsapp.png" alt="WhatsApp" className="w-[18px] h-[18px] object-contain flex-shrink-0 mt-0.5" />
                 <div>
                   <p className="text-sm text-gray-300">WhatsApp</p>
-                  <a 
-                    href="https://wa.me/923162664019" 
-                    target="_blank" 
+                  <a
+                    href="https://wa.me/923162664019"
+                    target="_blank"
                     rel="noopener noreferrer"
                     className="text-sm hover:text-white transition-colors duration-200"
                   >

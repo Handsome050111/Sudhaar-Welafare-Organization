@@ -65,6 +65,7 @@ const CampaignVideoSection = () => {
                 muted
                 playsInline
                 loop
+                preload="none"
                 className="w-full h-full object-cover"
                 style={{ display: 'block', aspectRatio: '9/16' }}
               >

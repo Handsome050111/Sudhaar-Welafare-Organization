@@ -39,9 +39,9 @@ const ServicesList = () => {
                 <div className={`bg-${isEven ? 'white' : 'gray-50'} rounded-lg p-8 ${isEven ? 'order-2 md:order-1' : ''}`}>
                   <div className="aspect-video bg-primary-light rounded-md flex items-center justify-center overflow-hidden shadow-md">
                     {service.photoPath ? (
-                      <img src={service.photoPath} alt={`${service.title} Photo`} className="w-full h-full object-cover" />
+                      <img src={service.photoPath} alt={`${service.title} Photo`} loading="lazy" className="w-full h-full object-cover" />
                     ) : (
-                      <div className="text-primary opacity-50 font-medium text-center px-4">Ready for Real Photo<br/><span className="text-sm">Update photoPath in data</span></div>
+                      <div className="text-primary opacity-50 font-medium text-center px-4">Ready for Real Photo<br /><span className="text-sm">Update photoPath in data</span></div>
                     )}
                   </div>
                 </div>
