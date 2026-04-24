@@ -43,7 +43,7 @@ const FloatingButtons = () => {
         href="https://wa.me/923162664019"
         target="_blank"
         rel="noopener noreferrer"
-        className="bg-[#25D366] hover:bg-[#128C7E] p-3 md:p-4 rounded-full shadow-lg transition-transform duration-200 hover:scale-110 flex items-center justify-center"
+        className="bg-[#29a71a] hover:bg-[#29a71a] p-2 md:p-2 rounded-full shadow-lg transition-transform duration-200 hover:scale-110 flex items-center justify-center"
         aria-label="Contact us on WhatsApp"
       >
         <img src="/whatsapp.png" alt="WhatsApp" className="w-7 h-7 md:w-8 md:h-8 object-contain" />
