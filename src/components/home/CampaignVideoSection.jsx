@@ -32,7 +32,7 @@ const CampaignVideoSection = () => {
               Real Impact, Real Action
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              Our CEO personally steps into communities — meeting individuals struggling with addiction, spreading awareness, and offering direct support on the ground. This is what authentic change looks like.
+              Our CEO personally steps into communities — meeting individuals struggling with addiction, spreading awareness, and offering direct support on the ground.
             </p>
             <ul className="space-y-3 mb-8">
               {[
